@@ -7,6 +7,13 @@ Developed an end-to-end prescriptive analytics pipeline to optimize the allocati
 
 The resulting strategy provides a surgical-grade roadmap that prioritizes census tracts based on marginal health benefits, enabling health administrators to transition from reactive care to a data-driven, preventive intervention model.
 
+## Data
+
+https://catalog.data.gov/dataset/pediatric-emergency-department-and-primary-care-visits-upmc
+
+Data captures emergency department (ED) visits and primary care visits for the pediatric population (ages 0-17) served by University of Pittsburgh Medical Center (UPMC) in Allegheny County by Census Block Group geography.
+
+See EDA for more details on the dataset.
 
 ## Steps in the project
 
