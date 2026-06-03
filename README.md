@@ -38,7 +38,7 @@ See EDA for more details on the dataset.
 **Excel**
 
 
-## Some Insights and Conclussions
+## Some Insights and Conclusions
 
 - The primary care system is reaching approximately **2,000 new children every year**, indicating either increased healthcare penetration or demographic growth within Allegheny County.
 
