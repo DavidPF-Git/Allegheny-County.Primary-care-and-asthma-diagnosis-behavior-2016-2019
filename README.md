@@ -25,7 +25,7 @@ See EDA for more details on the dataset.
 
 - Visualization and dashboard creation
 
-- Machine learning for predictive modeling.
+- Machine learning for predictive modeling
 
 - Linear programming for resource optimization
 
@@ -55,6 +55,7 @@ See EDA for more details on the dataset.
 - The **Multiple Linear Regression** is the best model for this study.
 
 - Assuming we are given the number of new preventive visits that can be carried out in a year, we can maximize the impact of each of these visits with the aim of minimizing the incidence of asthma. To achieve this, we must be highly selective in how these visits are distributed, paying special attention to the central-eastern area.
+
 ## Authors
 
 - David Fernández
